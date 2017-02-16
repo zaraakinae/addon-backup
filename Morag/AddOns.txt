@@ -1,0 +1,11 @@
+TidyPlates: disabled
+AngryAssignments: enabled
+TidyPlates_ThreatPlates: disabled
+TidyPlatesHub: disabled
+TidyPlatesWidgets: disabled
+TidyPlates_Graphite: disabled
+TidyPlates_Grey: disabled
+TidyPlates_Neon: disabled
+TidyPlates_Quatre: disabled
+GottaGoFast: disabled
+GottaGoFastHistory: disabled
